@@ -1,5 +1,6 @@
 # Hello!
 Hi there, you've stumbled upon my CS:GO Config files!\
+
 These include: 
 - Half-life sounds
 - Gamemodes
