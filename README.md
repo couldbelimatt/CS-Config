@@ -10,7 +10,7 @@ Leave me a +rep on my [Steam Profile](https://steamcommunity.com/id/limatt/) if 
    
 ### Installation
 Please read over these files before you install them!  
-There might be some things you want to change.
+There will be some things you want to change (like your keybindings etc)
 
 - Open Steam
 - Locate CSGO
