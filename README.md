@@ -1,5 +1,5 @@
 # Hello!
-Hi there, you've stumbled upon my CS:GO Config files!
+Hi there, you've stumbled upon my CS:GO Config files! \
 Please note that these do NOT work on Counter-Strike 2. I have no intention of making them work on it.
 
 These include: 
